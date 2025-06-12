@@ -1,0 +1,11 @@
+{
+  "Cotton___Bacterial_blight": "Use resistant varieties. Apply bactericides. Avoid overhead irrigation.",
+  "Cotton___Fusarium_wilt": "Apply a balanced dose of potash with nitrogenous and phosphatic fertilizers. Spot drenching with Benomyl or Carbendazim (0.05% or 0.1%) can provide temporary relief.",
+  "Cotton___Verticillium_wilt": "Rotate cotton with non-susceptible crops such as corn, wheat, barley, sorghum, safflower, or rice. Plant cotton varieties that are tolerant to Verticillium wilt.",
+  "Cotton___Root_knot_nematode": "Use Aeris or Avicta seed treatments, treat the soil with Telone before planting, or apply Temik in furrow at planting.",
+  "Cotton___Leaf_spot": "Remove and destroy infected plant residues. Spray Mancozeb@0.25% or Copper oxychloride@0.3% at the initiation of the disease.",
+  "Cotton___Anthracnose": "Treat seeds with Captan or Carbendazim at the rate of 3-4 gm/kg of seeds before planting. Spray with Carbendazim @1 gm/lit of water.",
+  "Cotton___Alternaria_leaf_spot": "Remove and destroy infected plant residues. Spray Mancozeb@0.25% or Copper oxychloride@0.3% at the initiation of the disease.",
+  "Cotton___Boll_rot": "Apply Quadris or Headline. Avoid practices that result in a rank, dense canopy.",
+  "Cotton___Rust": "Apply fungicides like Tebuconazole or Chlorothalonil. Remove and destroy infected plant residues."
+}
